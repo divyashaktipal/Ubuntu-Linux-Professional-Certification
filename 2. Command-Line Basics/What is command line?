@@ -1,0 +1,26 @@
+What is command line?
+The command line is a text-based interface where users type commands and see the output on the screen.
+
+Usage:
+It's commonly used in software development, system administration, and data analysis, especially on Linux systems.
+
+What is BASH?
+-->Bash is widely used shell or command-line interpreter.
+-->It was released by 1989 and is name Bourne Again SHell.
+--> Bash builds on earlier shells, like Bourne shell and Thompson shell.
+
+Where can i use Bash?
+--> Bash is widely available on Linux.
+--> Bash is available on Windows through Windows Subsystem for Linux.
+--> Bash is available on macOS, though in a outdated form.
+--> There are many other shells, but Bash is a good starting point.
+--> A shell runs in a terminal application.
+--> Work in one terminal window or many, it many you can use multiple terminal at a time and each one perform their task separately.
+--> Some software includes a built-in terminal.
+
+Some Important Key Points:
+Terminals Terms:
+--> Command-line interface(CLI) is any place we can enter text commands.
+--> A shell is a piece of software that interprets typed commands and runs them.
+--> Terminal is software that a shell program runs inside of.
+--> These terms are easily confused with each other. Each one is different from one another because their roles will become distinct, once your usage become more advanced.
