@@ -1,0 +1,34 @@
+This video cover the structure of command:
+
+General command structure we see are:
+    command     option(s)     argument(s)
+
+    For Example:
+    --> ls -lh /user/bin
+    --> sort -u users.txt
+    --> grep -i "needle" haystack
+
+Note: It can be one might just have a command (i.e. ls) or command with options (i.e. ls -h) or command with options and arguments (i.e. ls /user.bin).
+
+1. Commands: (i.e. ls, sort, grep, and so on)
+--> Commands are programs that are available on a system.
+--> When we run a command, the system takes a specific action.
+--> Many commmands have short names in order to save typing.
+--> Command names can seem tricky at first (ls, du, cat, df, grep, and so on).
+--> Overall we can say commands are programs that take a particular action based on what we're asking the system to do.
+--> Sometimes a command does something just by itself, but other time we'll want to change how a commmand works or tell it what data to use.
+
+2. Options: (i.e. -lh, -u, -l, and so on)
+--> Option tell the command how to operate, changing the behavior of command or telling to perform different actions.
+--> Options often begin with a dash or minus sign(like -e or -s).
+--> Options are often represented by one letter or number.
+--> Most commands offer more than one options.
+--> Optons can be used together (like ls -l -a) or seperately.
+
+3. Arguments: (i.e. /usr/bin, user.txt, heystack, and so on)
+--> This is where we tell the command what thing to operate on. It's usually a file or path or a set of files or directories seperated by spaces.
+--> Examples:
+      -> ls -lh /usr/bin
+                  Here /usr/bin argument tells to show us the content of the directory usr/bin.
+      -> sort -u users.txt
+                  Here user.txt arugument tells to show us the users file in sorted form.
