@@ -5,6 +5,7 @@ Usage:
 It's commonly used in software development, system administration, and data analysis, especially on Linux systems.
 
 What is BASH?
+..> Bash is a CLI of Linux.
 -->Bash is widely used shell or command-line interpreter.
 -->It was released by 1989 and is name Bourne Again SHell.
 --> Bash builds on earlier shells, like Bourne shell and Thompson shell.
